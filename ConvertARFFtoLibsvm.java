@@ -1,3 +1,7 @@
+/**
+* Copyright 2017 Rosdyana Kusuma.
+* Licensed under the Apache License, Version 2.0
+*/
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
